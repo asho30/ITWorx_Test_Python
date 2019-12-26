@@ -1,8 +1,8 @@
 #Bugs:
-- Sort by Computer name doesn't work.
-- Sort by Introduced doesn't work.
-- Sort by Discontinued doesn't work.
-- Sort by Company doesn't work.
+- Sort by Computer name doesn't work and that appear in the test report of the automation test.
+- Sort by Introduced doesn't work and that appear in the test report of the automation test.
+- Sort by Discontinued doesn't work and that appear in the test report of the automation test.
+- Sort by Company doesn't work and that appear in the test report of the automation test.
 - Discontinued date can be before Introduced date.
 - Discontinued date doesn't inserted correctly to database.
 - Computer name can be duplicated multiple times.

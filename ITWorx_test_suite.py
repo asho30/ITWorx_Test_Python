@@ -70,4 +70,4 @@ itworx.search_by_computer_name(file, driver, "Ashour") # Search on non Existing 
 itworx.check_not_exist(file, driver) # check result "Nothing to display"
 
 ######### end_test #########
-itworx.end_test(file)
+itworx.end_test(file, driver)
