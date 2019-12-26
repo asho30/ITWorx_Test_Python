@@ -1,0 +1,1 @@
+python.exe ITWorx_test_suite.py %*

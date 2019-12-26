@@ -1,0 +1,13 @@
+#Bugs:
+- Sort by Computer name doesn't work.
+- Sort by Introduced doesn't work.
+- Sort by Discontinued doesn't work.
+- Sort by Company doesn't work.
+- Discontinued date can be before Introduced date.
+- Discontinued date doesn't inserted correctly to database.
+- Computer name can be duplicated multiple times.
+- Computer name can be numbers only.
+- Computer can be added without Company.
+
+#Enhancement:
+- Add confirmation message before delete computer.
