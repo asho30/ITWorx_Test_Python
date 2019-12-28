@@ -1,0 +1,146 @@
+Test start time: 28/12/2019 22:18:16
+
+*** Application has been opened. 
+# Number of computers before @ the beginning of the test:606 Computers*** Addtion: (1) data: Ahmed,1988-01-01,2019-12-25,Nintendo.
+606 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:607 Computers.
+*** Test case: Pass, Number of computers has been changed to 607 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (2) data: Ahmed1,1988-01-02,2019-12-26,IBM.
+607 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:608 Computers.
+*** Test case: Pass, Number of computers has been changed to 608 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (3) data: 1Ahmed,1988-01-03,2019-12-27,RCA.
+608 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:609 Computers.
+*** Test case: Pass, Number of computers has been changed to 609 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (4) data: 1151,1988-01-04,2019-12-28,Netronics.
+609 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:610 Computers.
+*** Test case: Pass, Number of computers has been changed to 610 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (5) data: Ahmed Hussien,1988-01-05,2019-12-29,Xerox.
+610 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:611 Computers.
+*** Test case: Pass, Number of computers has been changed to 611 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (6) data: Hussien Ahmed,1988-01-06,2019-12-30,Zemmix.
+611 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:612 Computers.
+*** Test case: Pass, Number of computers has been changed to 612 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (7) data: a@,1988-01-07,2019-12-31,ACVS.
+612 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:613 Computers.
+*** Test case: Pass, Number of computers has been changed to 613 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (8) data: a.1,1988-01-08,2020-01-01,Sanyo.
+613 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:614 Computers.
+*** Test case: Pass, Number of computers has been changed to 614 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (9) data: Aa@,1988-01-09,2020-01-02,Cray.
+614 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:615 Computers.
+*** Test case: Pass, Number of computers has been changed to 615 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (10) data: a1a2,1988-01-10,2020-01-03,Canon.
+615 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:616 Computers.
+*** Test case: Pass, Number of computers has been changed to 616 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (11) data: A1dd,1988-01-11,2020-01-04,Nokia.
+616 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:617 Computers.
+*** Test case: Pass, Number of computers has been changed to 617 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (12) data: dddd,1988-01-12,2020-01-05,Sony.
+617 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:618 Computers.
+*** Test case: Pass, Number of computers has been changed to 618 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (13) data: G_a,1988-01-13,2020-01-06,OQO.
+618 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:619 Computers.
+*** Test case: Pass, Number of computers has been changed to 619 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (14) data: NeXT,1988-01-14,2020-01-07,NeXT.
+619 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:620 Computers.
+*** Test case: Pass, Number of computers has been changed to 620 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (15) data: Atari,1988-01-15,2020-01-08,Atari.
+620 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:621 Computers.
+*** Test case: Pass, Number of computers has been changed to 621 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (16) data: Sam,1988-01-16,2020-01-09,Samsung Electronics.
+621 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:622 Computers.
+*** Test case: Pass, Number of computers has been changed to 622 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (17) data: HTC,1988-01-17,2020-01-10,HTC Corporation.
+622 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:623 Computers.
+*** Test case: Pass, Number of computers has been changed to 623 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (18) data: duplicate,1988-01-18,2020-01-11,Texas Instruments.
+623 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:624 Computers.
+*** Test case: Pass, Number of computers has been changed to 624 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (19) data: duplicate,1988-01-18,2020-01-11,Texas Instruments.
+624 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:625 Computers.
+*** Test case: Pass, Number of computers has been changed to 625 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+*** Addtion: (20) data: duplicate,1988-01-18,2020-01-11,Texas Instruments.
+625 Computers# Test Case: Add New Computer
+*** Test case: Pass, Correct creation message appeared
+# Number of computers after addtion:626 Computers.
+*** Test case: Pass, Number of computers has been changed to 626 computers.
+# Test Case: Search about existing Computer
+*** Test case: Pass, Search results has been found.
+# Number of computers before @ the end of the test:626 Computers*** Application has been closed. 
+
+Test End time: 28/12/2019 22:26:13

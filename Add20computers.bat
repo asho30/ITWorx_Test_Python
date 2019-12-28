@@ -1,0 +1,1 @@
+python.exe Add_20computers_from_file.py %*

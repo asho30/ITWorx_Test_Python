@@ -1,0 +1,21 @@
+c_name, I_date, D_date, c_company
+Ahmed,1988-01-01,2019-12-25,Nintendo
+Ahmed1,1988-01-02,2019-12-26,IBM
+1Ahmed,1988-01-03,2019-12-27,RCA
+1151,1988-01-04,2019-12-28,Netronics
+Ahmed Hussien,1988-01-05,2019-12-29,Xerox
+Hussien Ahmed,1988-01-06,2019-12-30,Zemmix
+a@,1988-01-07,2019-12-31,ACVS
+a.1,1988-01-08,2020-01-01,Sanyo
+Aa@,1988-01-09,2020-01-02,Cray
+a1a2,1988-01-10,2020-01-03,Canon
+A1dd,1988-01-11,2020-01-04,Nokia
+dddd,1988-01-12,2020-01-05,Sony
+G_a,1988-01-13,2020-01-06,OQO
+NeXT,1988-01-14,2020-01-07,NeXT
+Atari,1988-01-15,2020-01-08,Atari
+Sam,1988-01-16,2020-01-09,Samsung Electronics
+HTC,1988-01-17,2020-01-10,HTC Corporation
+duplicate,1988-01-18,2020-01-11,Texas Instruments
+duplicate,1988-01-18,2020-01-11,Texas Instruments
+duplicate,1988-01-18,2020-01-11,Texas Instruments
